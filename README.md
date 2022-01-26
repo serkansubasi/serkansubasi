@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am a solution provider, software architect, database designer, database administrator 
 
-<!--
-**serkansubasi/serkansubasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on several consulting projects, WPF, WCF applications, Flutter
+- 🌱 I’m a life-time learner
+- 👯 I’m looking to collaborate on LMS projects
+- 🤔 I’m open to work, looking for opportunities (remote, on-site)
+- 💬 Ask me about SQL, .Net, Emailing, VB6, VB.Net, C#, MT940, MT942, Excel, VBA
+- 📫 How to reach me: serkans@outlook.com Skype: serkansubasi sip: serkansubasi
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: COoL_Man, CoolRookie, Telefragged Armadillos (Quake)
+- 😄 Games: Pitfall, Boulder Dash, Duke Nukem 3D, Quake, COD, Rouge Company, Valorant
+- ⚡ Fun fact: I love coding, anyway sometimes I hate too
