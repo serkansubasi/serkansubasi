@@ -9,4 +9,4 @@
 
 - 😄 Pronouns: COoL_Man, CoolRookie, Telefragged Armadillos (Quake)
 - 😄 Games: Pitfall, Boulder Dash, Duke Nukem 3D, Quake, COD, Rouge Company, Valorant
-- ⚡ Fun fact: I love coding, anyway sometimes I hate too
+- ⚡ Fun fact: I love coding, thinking, dealing and solving problems...
